@@ -1,7 +1,7 @@
 <?php
 /**
  * Plugin Name:       REST Expose
- * Plugin URI:        TBD
+ * Plugin URI:        https://github.com/DakoaTech/rest-expose
  * Description:       Make fields available in the REST API
  * Version:           0.0.1
  * Requires at least: 4.6
